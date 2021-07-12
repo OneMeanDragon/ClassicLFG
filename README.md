@@ -23,3 +23,6 @@ Features that are/will be included.
  
 
 To join the discussion and get the latest information about the state of the addon and future features join our [Discord](https://discord.gg/DYxZKe)
+
+* Updates
+   * 7-12-2021: Fixed the filters for TBC (i asume that these may be different from region to region.) -OneMeanDragon
