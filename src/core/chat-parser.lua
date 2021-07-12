@@ -76,11 +76,13 @@ end
 
 function ClassicLFGChatParser:HasLFMTag(text)
     local lfmTags = {
+        "lfg",
         "lfm",
         "lf4m",
         "lf3m",
         "lf2m",
         "lf1m",
+        "lf",
         "looking for more",
         "looking for members",
         "looking for member"
