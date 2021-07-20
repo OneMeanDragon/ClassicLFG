@@ -26,4 +26,4 @@ To join the discussion and get the latest information about the state of the add
 
 * Updates -OneMeanDragon
    * 7-12-2021: updated the main chat parser to include "LF" and "LFG"
-   * 7-12-2021: Fixed the filters for TBC (i asume that these may be different from region to region.)
+   * 7-12-2021: Fixed the filters for TBC (i asume that these may be different from region to region.) [src/data/dungeons.lua]
