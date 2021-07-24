@@ -12,7 +12,7 @@ ClassicLFG.Config = {
     },
     BroadcastInterval = 15,
     CheckGroupExpiredInterval = 5,
-    GroupTimeToLive = 5 * 60,
+    GroupTimeToLive = 2 * 60,
     PrimaryColor = { Red = 0.5, Blue = 0.5, Green = 0.5, Alpha = 1 },
     SecondaryColor = { Red = 0.7, Blue = 0.7, Green = 0.7, Alpha = 1 },
     BackgroundColor = { Red = 0.2, Blue = 0.2, Green = 0.2, Alpha = 1 },
